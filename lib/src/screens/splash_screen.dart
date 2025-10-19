@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
-import '../services/native_bridge.dart';
 import 'user_selection_screen.dart';
 
 class SplashScreen extends StatefulWidget {
